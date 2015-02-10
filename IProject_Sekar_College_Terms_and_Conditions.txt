@@ -1,0 +1,47 @@
+Start of Text Document
+--
+	INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, SRIRANGAM
+			TIRUCHIRAPPALLI – 24
+			M.Tech – CSE, SWE, DBS
+
+Batch:			2013-2015
+Semester:		III & IV
+Name of the Student: 	Sekar Chenniyappan                                  Registration No:  	CSE13P017
+
+			Project Work (Phase I and Phase II)
+
+Terms and Conditions
+
+1. Students can do their project work in Industry/Research lab/In-house.
+
+2. In the case of industry it must be a registered company in India or a branch of a Multinational company and must be a legally recognized entity in India (through companies act). 
+
+3. Project must be substantially innovative using latest tools and technologies in the IT industry or based on past research publications.
+
+4. Only if the idea of the project phase-I or phase-II is published or accepted for publication in Anna University - Annexure-1 or Annexure-2 listed journal or publication, with the project student as the lead author along with guide, then the student is eligible to submit their PG thesis. The paper must be submitted after getting consent from both
+	a. the company (external) guide (supervisor) 
+	b. the college (internal) guide (supervisor)
+and must be submitted to the journal with both guides certifying 
+originality of the work along with student as the lead author/communicating author, and both the company (external) and college (internal) guide as the second and third communicating author respectively.  
+
+5. The base paper must be taken from the latest reputed journals like IEEE, ACM, Springer, and Elsevier.
+
+6. The students who are doing internship will be directed to conform to 
+the Project Terms and Conditions of IIIT Srirangam by the Industry/Research lab where they are doing their project.
+
+7. Those who get internship must get an approval letter from the HR department of organization indicating the external guide, external guide and internal guide approved project title and abstract at the start of the project.
+
+8. The internship organization must provide monthly attendance certificate of the intern to the IIIT HOD and coordinator on the last working date of the calendar month along with external guide approved 300 words technical progress report, with a grace period of 1 week to handle unavailability
+of appropriate company personnel.
+
+9. The industry or research lab must allow the students to attend the review once in a month.
+
+10. A student, who has been awarded the Institute Assistantship, is expected to devote up to 8 hours per week towards academic job(s) assigned to him/her. So, the GATE students are expected to do in-house project. If they want to do project in industry or R&D lab they cannot avail the Institute Assistantship.
+
+Accept and Digitally Signed on 10th February 2015
+by
+Dinesh Thirumurthy
+Radien Software Private Limited
+Software Research Industrial Life Analytics Labs
+--
+End of Text Document
