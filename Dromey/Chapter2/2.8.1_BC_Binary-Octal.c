@@ -22,7 +22,7 @@ int main()
 
 int bin_oct(int n)  
 {
-    int oct = 0;
+	int oct = 0;
 	int dec = 0;
 	int i = 0;
 	
