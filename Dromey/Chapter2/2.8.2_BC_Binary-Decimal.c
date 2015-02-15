@@ -24,15 +24,14 @@ int main()
 
 int bin_dec(int n)  
 {
-
 	int dec = 0;
 	int i = 0;
 	
-    while (n != 0) {					/*Binary to Decimal*/
+	while (n != 0) {					/*Binary to Decimal*/
         dec += (n % 10) * pow(2,i);
         ++i;
         n /= 10;
-    }
+	}
     
     return dec;
 }
