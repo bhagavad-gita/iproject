@@ -20,7 +20,6 @@ int main()
 	return 0;
 
 }
-
 int dec_oct(int n)  
 {
     int i = 1;
