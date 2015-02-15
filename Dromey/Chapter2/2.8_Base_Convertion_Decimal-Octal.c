@@ -1,33 +1,39 @@
-/* Chapter 2.8 Base Convertion Decimal to octal
+/* Chapter 2.8 Base Conversion : Binary to octal
 	Sekar Che, Feb 2015 */
 	
 #include <stdio.h>
+#include <math.h>
 
 int main()
 {
+	int dec_oct(int n);
 	int n;
-	int a;
-	int sum = 0;
-	int sum1 = 0;
-
-	printf ("Enter Decimal Integer : ");
-	scanf ("%d", &n);
-
-	while (n != 0) {
-		a = n % 8;
-		sum = sum * 10 + a;
-		n = n / 8;			
-	}	
-
-	while (sum != 0) {
-		a = sum % 10;
-		sum1 = sum1 * 10 + a;
-		sum = sum / 10;			
-	}
 	
-	printf ("Converted Octal integer :%d", sum1);	
-
+	printf ("/***Decimal to Octal Conversions***/\n");
+	
+	printf ("Enter Decimal Number: \n");
+	scanf ("%d", &n);
+	
+	printf ("Decimal	=		Octal\n");
+	printf ("%d		=		%d ", n, dec_oct(n));
+	
 	return 0;
+	
 }
 
+int dec_oct(int n)  
+{
+    int i = 1;
+    int rem =0;
+    int oct = 0;
+    
+    while (n != 0) {					/*Decimal to Octal*/
+        rem = (n % 8);
+        n /= 8;
+        oct += rem * i;
+        i *= 10;
+    }
+    
+    return oct;
+}
 
