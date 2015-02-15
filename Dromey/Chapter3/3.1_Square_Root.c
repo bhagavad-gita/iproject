@@ -19,9 +19,8 @@ int main()
 			m = m - n;          
 			break;      
 		}
-	}
-	
-	printf("%.5f",m);
+	}	
+	printf("%.3f",m);
 	return 0;
 }
 
