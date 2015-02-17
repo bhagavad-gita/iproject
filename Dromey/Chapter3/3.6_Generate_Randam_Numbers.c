@@ -1,4 +1,4 @@
-/* Chapter 3.6 Generate psudo-Randam number
+/* Chapter 3.6 Generate psudo-Random number
 	Sekar Che, Feb 2015 */
 	
 #include <stdio.h>
