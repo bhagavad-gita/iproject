@@ -5,7 +5,7 @@
 
 int main()
 {
-	int i;
+    int i;
     int n;
     int a[100];
     int temp;
